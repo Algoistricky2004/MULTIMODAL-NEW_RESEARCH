@@ -24,6 +24,8 @@
 
 12)   https://arxiv.org/pdf/2504.06637
 
+https://arxiv.org/html/2408.10215v1
+
 13)   https://openaccess.thecvf.com/content/CVPR2025/html/Hao_RAP_Retrieval-Augmented_Personalization_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html
 
 14)   https://arxiv.org/pdf/2505.09787v1
